@@ -6,7 +6,7 @@ Este é um projeto experimental de um aplicativo SaaS desenvolvido com **React**
 
 - Front-end: [React](https://reactjs.org/) + [Tailwind CSS](https://tailwindcss.com/)
 - Back-end: [Node.js](https://nodejs.org/) + [Express](https://expressjs.com/)
-- Banco de Dados: (você pode incluir aqui: ex. SQLite, PostgreSQL, etc.)
+- Banco de Dados: PostgreSQL
 
 ## ⚠️ Propósito
 
@@ -21,8 +21,4 @@ Este projeto **não é seguro** por padrão. Algumas práticas inseguras são im
 
 ## 🚀 Rodando o projeto localmente
 
-Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/saas-teste-seguranca.git
-cd saas-teste-seguranca
+-Em Breve-
