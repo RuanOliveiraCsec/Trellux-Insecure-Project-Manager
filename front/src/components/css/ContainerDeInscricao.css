@@ -1,0 +1,37 @@
+
+#container-inscricao {
+    text-align: center;
+    padding: 128px 16px 16px 16px;
+    color: rgb(9, 30, 66);
+}
+
+#container-inscricao__titulo {
+    font-size: 1.8rem;
+    line-height: 1.25;
+    font-weight: 550;
+    margin-bottom: 15px;
+}
+
+
+#container-inscricao__texto {
+    margin-bottom: 30px;
+    font-size: 1.25rem;
+}
+
+
+#container-inscricao__botao {
+    background-color: rgb(0, 101, 255);
+    padding: 10px 30px;
+    border: none;
+    border-radius: 7px;
+    color: white;
+    font-weight: 530;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#container-inscricao__botao:hover {
+    transition: 0.3s;
+    transform: scale(1.3);
+}

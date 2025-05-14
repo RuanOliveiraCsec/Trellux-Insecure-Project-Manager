@@ -37,4 +37,12 @@
 #menu__botao {
     display: flex;
     align-items: center;
+    cursor: pointer;
+    margin-right: 50px;
+    transition: 0.3s;
+}
+
+#menu__botao:hover {
+    transition: 0.3s;
+    transform: scale(1.3);
 }
