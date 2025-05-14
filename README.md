@@ -4,7 +4,7 @@ Este é um projeto experimental de um aplicativo SaaS desenvolvido com **React**
 
 ## 🔧 Tecnologias
 
-- Front-end: [React](https://reactjs.org/) + [Tailwind CSS](https://tailwindcss.com/)
+- Front-end: [React](https://reactjs.org/)
 - Back-end: [Node.js](https://nodejs.org/) + [Express](https://expressjs.com/)
 - Banco de Dados: PostgreSQL
 
